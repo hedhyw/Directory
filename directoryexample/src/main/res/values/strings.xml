@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DirectoryExample</string>
+    <string name="button_open_file">Open file</string>
+    <string name="button_open_directory">Open directory</string>
+    <string name="title_select_file">Select file</string>
+    <string name="title_select_directory">Select directory</string>
+    <string name="button_select_directory">Select</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="dialog_canceled">Dialog canceled</string>
+    <string name="toggle_single">Mode single</string>
+    <string name="toggle_multiple">Mode multiple</string>
+</resources>
